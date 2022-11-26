@@ -1,0 +1,4 @@
+pasos a seguir para crear repositorio:
+mkdir (crea una carpeta)
+git init (inicia el repositorio)
+git add readme
